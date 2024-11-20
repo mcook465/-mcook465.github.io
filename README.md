@@ -20,7 +20,7 @@ A simple, responsive website to calculate the area of a rectangle based on user 
 - `README.md`: Documentation for the project.
 
 ## Deployment
-Hosted at [mcook465.github.io](https://mcook465.github.io).
+Hosted at [[mcook465.github.io](https://mcook465.github.io/-mcook465.github.io/)]([https://mcook465.github.io](https://mcook465.github.io/-mcook465.github.io/)).
 
 ## License
 This project is open-source and available for modification and distribution.
